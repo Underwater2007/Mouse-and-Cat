@@ -1,0 +1,106 @@
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\broccoli.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\game-over.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\grass.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\ninja-cat-dino.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\start-splash.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.exe
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.deps.json
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.runtimeconfig.json
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.pdb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.AssemblyReference.cache
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.GeneratedMSBuildEditorConfig.editorconfig
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.AssemblyInfoInputs.cache
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.AssemblyInfo.cs
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.CoreCompileInputs.cache
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\refint\DinoLand.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.pdb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.genruntimeconfig.cache
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\ref\DinoLand.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\GameState.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\Score.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.Properties.Resources.resources
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.GenerateResource.cache
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\broccoli.xnb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\game-over.xnb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\GameState.xnb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\grass.xnb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\ninja-cat-dino.xnb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\Score.xnb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\start-splash.xnb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.exe
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.deps.json
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.runtimeconfig.json
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.pdb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.AssemblyReference.cache
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.Properties.Resources.resources
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.GenerateResource.cache
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.GeneratedMSBuildEditorConfig.editorconfig
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.AssemblyInfoInputs.cache
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.AssemblyInfo.cs
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.CoreCompileInputs.cache
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.CopyComplete
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\refint\DinoLand.dll
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.pdb
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.genruntimeconfig.cache
+E:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\ref\DinoLand.dll
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\Boom.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\Cat.xnb
+D:\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.Up2Date
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\broccoli.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\game-over.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\GameState.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\grass.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\ninja-cat-dino.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\Score.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\start-splash.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\Boom.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\Content\Cat.xnb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.exe
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.deps.json
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.runtimeconfig.json
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\DinoLand.pdb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.AssemblyReference.cache
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.Properties.Resources.resources
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.GenerateResource.cache
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.GeneratedMSBuildEditorConfig.editorconfig
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.AssemblyInfoInputs.cache
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.AssemblyInfo.cs
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.CoreCompileInputs.cache
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.csproj.Up2Date
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\refint\DinoLand.dll
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.pdb
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\DinoLand.genruntimeconfig.cache
+D:\HIgh School\CompSci32s\MonoGame\DinoLand\DinoLand\obj\Debug\net6.0\ref\DinoLand.dll

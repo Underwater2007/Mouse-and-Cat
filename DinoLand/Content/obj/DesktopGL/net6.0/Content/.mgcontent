@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/Boom.png</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/broccoli.png</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/Cat.png</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/game-over.png</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/GameState.spritefont</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/grass.png</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/ninja-cat-dino.png</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/Score.spritefont</File>
+    <File>D:/HIgh School/CompSci32s/MonoGame/DinoLand/DinoLand/Content/start-splash.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
