@@ -1,6 +1,3 @@
-﻿//Rushi Patel
-//DinoLand
-//2024-03-07
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
